@@ -21,7 +21,7 @@ Dive into the world of digital reconnaissance with this Flipper Zero WiFi Info E
 ### Flipper Zero BadUSB Script
 1. Ensure your Flipper Zero is up-to-date with the latest firmware 🔧 ( Xtreme Pref ).
 2. Load the script onto your Flipper Zero's BadUSB directory 📂.
-3. Modify the script to include your Discord webhook URL wher YOUR_WEBHOOK_URL_HERE 📝.
+3. Modify the script to include your Discord webhook URL where YOUR_WEBHOOK_URL_HERE 📝.
 
 ## 🚀 Usage
 - Plug the Flipper Zero into a Windows computer 💻.
