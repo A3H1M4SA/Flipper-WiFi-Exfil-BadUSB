@@ -1,5 +1,5 @@
 REM By A3HIM4S@
-REM Modified to run on the Flipper Zero Original Made For The WHID Injecter Duckuino
+REM Modified to run on the Flipper Zero Originaly Made For The WHID Injecter Duckuino
 REM -----
 REM Payload for wifi-stealer-Windows
 REM Credits to beigeworm (WiFi Exfil Code By )
